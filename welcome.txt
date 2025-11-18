@@ -1,0 +1,7 @@
+1.git status
+2.git init
+3.git add abc.txt
+4.git commit -m "You can write message here as per your file requirement"
+
+#for login
+git config --global user.email "your@gmail.com"
