@@ -1,0 +1,29 @@
+1.git status
+2.git init
+3.git add abc.txt
+4.git commit -m "You can write message here as per your file requirement"
+
+#for login
+git config --global user.email "your@gmail.com"
+
+#for creating the local repository
+git clone https://github.com/KiranPatil-10/test.git
+
+#for pushing code on central repository
+git push origin main
+
+#for pulling code from central repository
+git pull
+
+#for new Branch
+git branch branchname
+
+#to get in that branch
+git checkout
+
+#for merging new branch in "main" branch
+git merge 
+
+#for getting difference
+git diff
+
